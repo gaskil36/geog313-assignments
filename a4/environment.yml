@@ -1,0 +1,9 @@
+name: a4-env
+channels:
+  - defaults
+dependencies:
+  - python=3.12.5
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - matplotlib=3.9.2
+  - jupyterlab=4.2.5
