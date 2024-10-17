@@ -4,7 +4,7 @@
 ``` git pull https://github.com/gaskil36/geog313-assignments/tree/main/assignment-5```  
 2. Ensure the directory contains the following files:  
 ```Dockerfile```  
-```s2_query.ipynb``  
+```s2_query.ipynb```  
 ```README.md``` 
 
 ### How to run this container  
