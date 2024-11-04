@@ -1,7 +1,7 @@
 ## Assignment 6: Using Dask and Stacstack API to Plot Sentinel-2 Normalized Difference Water Index  
 
 1. Clone this git repository to your local machine  
-``` git pull https://github.com/gaskil36/geog313-assignments/tree/main/assignment-5```  
+``` git pull https://github.com/gaskil36/geog313-assignments/tree/main/assignment-6```  
 2. Ensure the directory contains the following files:  
 ```Dockerfile```  
 ```assignment-6.ipynb```
